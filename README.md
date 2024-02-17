@@ -9,7 +9,7 @@ The dataset contains 6 columns :
 5. Order Date
 6. Purchase Address
 
-In this project, basic data analysis techniques have been demonstrated like importing libraries, reading data, data cleaning, data tranformation, data visualization using Matplotlib & Seaborn. <br>
+In this project, basic data analysis techniques have been demonstrated like importing libraries, reading data, data cleaning, data tranformation, data visualization using Matplotlib & Seaborn. <br><br>
 Libraries used:
 
 1. Pandas
