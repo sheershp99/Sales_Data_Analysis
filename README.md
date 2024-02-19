@@ -11,7 +11,6 @@ The dataset contains 6 columns :
 6. Purchase Address
 
 In this project, basic data analysis techniques have been demonstrated like importing libraries, reading data, data cleaning, data tranformation, data visualization using Matplotlib & Seaborn. <br><br>
-Libraries used:
 
 ## Dataset Link
 [Keith Galli Pandas Data Science Task](https://github.com/KeithGalli/Pandas-Data-Science-Tasks)
